@@ -1,4 +1,4 @@
-# giraph-algorithms
+# flink-algorithms
 
 Library of graph algorithms we use with Apache Flink.
 Documentation can be found in the specific algorithm packages. 
