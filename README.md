@@ -19,4 +19,4 @@ See [Wikipedia (Label propagation)](https://en.wikipedia.org/wiki/Label_Propagat
 ## Adaptive Repartitoning
 
 Partitions a graph using label propagation as described in [Adaptive Partitioning of Large-Scale Dynamic Graphs](http://www.few.vu.nl/~cma330/papers/ICDCS14.pdf).
-The implementation uses giraph aggregators to ensure a balanced partition load.
+The implementation uses flink (gelly) aggregators to ensure a balanced partition load.
